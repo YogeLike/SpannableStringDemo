@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yogw.spannablestringdemo.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/tv_03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_06"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_07"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:padding="8dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_09"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_11"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Hello World!"
+            android:textSize="20sp" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>
